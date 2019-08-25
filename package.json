@@ -1,0 +1,24 @@
+{
+  "name": "nodejs_coding_practice",
+  "version": "1.0.0",
+  "description": "coding_practices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajaysharma388/NodeJs-Coding-Practice.git"
+  },
+  "author": "Ajay Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajaysharma388/NodeJs-Coding-Practice/issues"
+  },
+  "homepage": "https://github.com/ajaysharma388/NodeJs-Coding-Practice#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15"
+  }
+}
