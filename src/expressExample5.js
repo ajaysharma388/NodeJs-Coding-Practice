@@ -27,7 +27,5 @@ app.post('/', (req, res) => {
           console.log(result);
           res.send('Successfully Posted The data.');
      });
-     // here we generally do some database work
-     res.send('Request Is being Possesing.');
 });
 app.listen('3000');
